@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="LiveVoice Remote">
+  <rect width="256" height="256" rx="60" fill="#222A31"></rect>
+  <g fill="#626D75">
+    <rect x="29" y="29" width="33" height="33" rx="10"></rect>
+    <rect x="194" y="29" width="33" height="33" rx="10"></rect>
+    <rect x="29" y="194" width="33" height="33" rx="10"></rect>
+    <rect x="194" y="194" width="33" height="33" rx="10"></rect>
+  </g>
+  <g stroke="#F56230" stroke-width="14" stroke-linecap="round" fill="none">
+    <path d="M63 94 Q47 128 63 162"></path>
+    <path d="M193 94 Q209 128 193 162"></path>
+  </g>
+  <rect x="79" y="79" width="98" height="98" rx="26" fill="#F56230"></rect>
+  <g fill="#222A31">
+    <rect x="98" y="115" width="11" height="26" rx="5.5"></rect>
+    <rect x="122" y="103" width="11" height="50" rx="5.5"></rect>
+    <rect x="146" y="115" width="11" height="26" rx="5.5"></rect>
+  </g>
+</svg>

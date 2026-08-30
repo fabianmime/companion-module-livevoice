@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 96" width="560" height="96" role="img" aria-label="LiveVoice Remote">
+  <g transform="translate(0,8) scale(0.3125)">
+    <rect width="256" height="256" rx="60" fill="#222A31"></rect>
+    <g fill="#626D75">
+      <rect x="29" y="29" width="33" height="33" rx="10"></rect>
+      <rect x="194" y="29" width="33" height="33" rx="10"></rect>
+      <rect x="29" y="194" width="33" height="33" rx="10"></rect>
+      <rect x="194" y="194" width="33" height="33" rx="10"></rect>
+    </g>
+    <g stroke="#F56230" stroke-width="14" stroke-linecap="round" fill="none">
+      <path d="M63 94 Q47 128 63 162"></path>
+      <path d="M193 94 Q209 128 193 162"></path>
+    </g>
+    <rect x="79" y="79" width="98" height="98" rx="26" fill="#F56230"></rect>
+    <g fill="#222A31">
+      <rect x="98" y="115" width="11" height="26" rx="5.5"></rect>
+      <rect x="122" y="103" width="11" height="50" rx="5.5"></rect>
+      <rect x="146" y="115" width="11" height="26" rx="5.5"></rect>
+    </g>
+  </g>
+  <text x="104" y="52" font-family="Space Grotesk, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5" fill="#E8ECEA">LiveVoice Remote</text>
+  <text x="105" y="74" font-family="IBM Plex Mono, monospace" font-size="12.5" letter-spacing="1.6" fill="#8B9793">COMPANION MODULE</text>
+</svg>
