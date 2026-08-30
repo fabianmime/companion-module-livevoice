@@ -22,12 +22,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/fabianmime/LiveVoice-Translation-Companion-Remote.git"
+		"url": "git+https://github.com/fabianmime/companion-module-livevoice.git"
 	},
 	"bugs": {
-		"url": "https://github.com/fabianmime/LiveVoice-Translation-Companion-Remote/issues"
+		"url": "https://github.com/fabianmime/companion-module-livevoice/issues"
 	},
-	"homepage": "https://github.com/fabianmime/LiveVoice-Translation-Companion-Remote#readme",
+	"homepage": "https://github.com/fabianmime/companion-module-livevoice#readme",
 	"engines": {
 		"node": "^22.20",
 		"yarn": "^4"
