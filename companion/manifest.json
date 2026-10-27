@@ -9,7 +9,7 @@
 	"license": "MIT",
 	"repository": "git+https://github.com/fabianmime/companion-module-livevoice.git",
 	"bugs": "https://github.com/fabianmime/companion-module-livevoice/issues",
-	"maintainers": [{ "name": "Fabian Meyer", "email": "f.meyer@computer-trend.ch" }],
+	"maintainers": [{ "name": "meyer.productions", "github": "fabianmime", "url": "https://meyer.productions" }],
 	"runtime": { "type": "node22", "api": "nodejs-ipc", "apiVersion": "0.0.0", "entrypoint": "../dist/main.js" },
 	"legacyIds": [],
 	"manufacturer": "Meyer Productions",
