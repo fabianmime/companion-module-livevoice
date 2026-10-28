@@ -22,12 +22,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/fabianmime/companion-module-livevoice.git"
+		"url": "git+https://github.com/meyer-productions/companion-module-livevoice.git"
 	},
 	"bugs": {
-		"url": "https://github.com/fabianmime/companion-module-livevoice/issues"
+		"url": "https://github.com/meyer-productions/companion-module-livevoice/issues"
 	},
-	"homepage": "https://github.com/fabianmime/companion-module-livevoice#readme",
+	"homepage": "https://github.com/meyer-productions/companion-module-livevoice#readme",
 	"engines": {
 		"node": "^22.20",
 		"yarn": "^4"

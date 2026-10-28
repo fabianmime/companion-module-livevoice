@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fabianmime/companion-module-livevoice/actions/workflows/node.yaml">
-    <img src="https://github.com/fabianmime/companion-module-livevoice/actions/workflows/node.yaml/badge.svg" alt="CI status" />
+  <a href="https://github.com/meyer-productions/companion-module-livevoice/actions/workflows/node.yaml">
+    <img src="https://github.com/meyer-productions/companion-module-livevoice/actions/workflows/node.yaml/badge.svg" alt="CI status" />
   </a>
   <a href="./LICENSE.md">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
